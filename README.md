@@ -3,7 +3,7 @@
 
 Welcome to your Next.js project! This project template is designed to help you integrate Google authentication, MongoDB, API routes, React components, and leverage the Google Cloud dashboard.
 
-![Project Screenshot]((https://github.com/mahdiahadi/promptopia/assets/109126668/9550025e-b9da-4585-9354-f9145b96ea6a)
+![Project Screenshot](https://github.com/mahdiahadi/promptopia/assets/109126668/9550025e-b9da-4585-9354-f9145b96ea6a)
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
